@@ -62,7 +62,7 @@ The version in `zed-industries/extensions` must match the version in
 `extension.toml`.
 
 ```toml
-[jetbrains-air]
+[jetbrains-air-theme]
 submodule = "extensions/jetbrains-air"
 version = "0.0.1"
 ```
