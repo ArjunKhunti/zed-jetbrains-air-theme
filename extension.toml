@@ -3,5 +3,5 @@ name = "JetBrains Air"
 version = "0.0.1"
 schema_version = 1
 authors = ["Arjun Khunti <arjunvkhunti@gmail.com>"]
-description = "A dark theme family ported from JetBrains Air."
-repository = "https://github.com/arjunvkhunti/zed-jetbrains-air-theme"
+description = "A dark theme family inspired by JetBrains Air."
+repository = "https://github.com/arjunkhunti/zed-jetbrains-air-theme"

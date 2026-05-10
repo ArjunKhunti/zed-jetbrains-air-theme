@@ -1548,7 +1548,5 @@
         "version_control.ignored": "#5a7356ff"
       }
     }
-  ],
-  "isUserGenerated": true,
-  "description": "A dark theme family ported from JetBrains Air."
+  ]
 }
